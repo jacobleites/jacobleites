@@ -1,5 +1,5 @@
 ## Hey there 👋
-- 🛜 I'm currently learning Cybersecurity
+- 🖥️ I'm currently learning Cybersecurity
 - 📈 I specialize in Data Analytics 
 - 🐍 I'm refining my Python skills 
 - 🛡️ I'm a junior at Rutgers University 
