@@ -1,8 +1,8 @@
 ## Hey there 👋
-- I'm currently learning Cybersecurity
-- I specialize in Data Analytics
-- I'm refining my Python skills
-- I'm a junior at Rutgers University
+- 🛜 I'm currently learning Cybersecurity
+- 📈 I specialize in Data Analytics 
+- 🐍 I'm refining my Python skills 
+- 🛡️ I'm a junior at Rutgers University 
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/jleites356/) 
