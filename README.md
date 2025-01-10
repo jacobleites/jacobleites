@@ -4,9 +4,6 @@
 - 🐍 I'm refining my Python skills 
 - 🛡️ I'm a junior at Rutgers University 
 
-## Socials
-[LinkedIn](https://www.linkedin.com/in/jleites356/) 
-
 <!--
 **jacobleites/jacobleites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
