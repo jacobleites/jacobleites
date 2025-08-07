@@ -1,8 +1,8 @@
 ## Hey there 👋
-- 🖥️ I'm currently learning Cybersecurity
-- 📈 I specialize in Data Analytics 
+- 🛜 I'm currently studying Information Technology
+- 🖧 I'm interested in Infrastructure 
 - 🐍 I'm refining my Python skills 
-- 🛡️ I'm a junior at Rutgers University 
+- 🛡️ I'm a senior at Rutgers University 
 
 <!--
 **jacobleites/jacobleites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
